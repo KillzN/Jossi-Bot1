@@ -11,7 +11,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
   const tradutor = _translate.plugins.buscador_githubsearch
 
-  if (!text) throw `*[❗] Ingresa un texto para buscar, ejemplo: ${usedPrefix + command} 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 *`;
+  if (!text) throw `*[❗] Ingresa un texto para buscar, ejemplo: ${usedPrefix + command} 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 *`;
   const res = await fetch(global.API('https://api.github.com', '/search/repositories', {
     q: text,
   }));

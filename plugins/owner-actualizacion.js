@@ -4,7 +4,7 @@ let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
 const owner = 'ineffable.mvrco';
-const repo = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 ';
+const repo = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 ';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje

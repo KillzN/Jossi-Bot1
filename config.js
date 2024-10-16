@@ -86,9 +86,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧`;
-global.gt = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
-global.mysticbot = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+global.wm2 = `${dia} ${fecha}\n𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓`;
+global.gt = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓';
+global.mysticbot = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓';
 global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
 global.md = 'https://github.com/KillzN/Perfect3';
 global.mysticbot = 'https://github.com/KillzN/Perfect3';

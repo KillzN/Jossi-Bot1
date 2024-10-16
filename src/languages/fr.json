@@ -795,7 +795,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Entrez un lien YouTube.",
-            "texto2": "🤴🏻 Téléchargé par ineffable.mvrco & 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧  🤖"
+            "texto2": "🤴🏻 Téléchargé par ineffable.mvrco & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Entrez la commande plus le lien de la vidéo YouTube*",
@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par ineffable.mvrco, vous serez 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {
@@ -2412,7 +2412,7 @@
             "texto2": "Le meilleur hébergement 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Perfect3.git && cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> rm -rf KillzNSession\n> npm start",
+            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Perfect3.git && cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> rm -rf KillzNSession\n> npm start",
             "texto2": "Le meilleur Bot de WhatsApp"
         },
         "info_listprem": {
@@ -2447,7 +2447,7 @@
             "texto1": [
                 "_*< INFORMATIONS - DÉPÔT />*_",
                 "▢ *Nom :*",
-                "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 ",
+                "𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 ",
                 "▢ *Visiteurs :*",
                 "▢ *Taille :*",
                 "▢ *Dernière mise à jour :*",

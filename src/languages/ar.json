@@ -801,7 +801,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] أدخل رابط YouTube.",
-            "texto2": "🤴🏻 تنزيل بواسطة ineffable.mvrco & 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧  🤖"
+            "texto2": "🤴🏻 تنزيل بواسطة ineffable.mvrco & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] أدخل الأمر بالإضافة إلى رابط فيديو YouTube*",
@@ -3252,7 +3252,7 @@
             "texto2": "أفضل خدمة استضافة 🚀"
         },
         "info_instalarbot": {
-            "texto1": "—◉ تثبيت البوت الرئيسي\n> البرنامج التعليمي: https://youtu.be/eC9TfKICpcY\n> الصفحة الرسمية: https://boxmineworld.com\n> لوحة التحكم: https://dash.boxmineworld.com/home\n> الواجهة: https://panel.boxmineworld.com\n> الدعم: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ تثبيت البوت الفرعي\n> البرنامج التعليمي: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ أوامر التثبيت*\n> الأوامر:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Perfect3.git && cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ تنشيط البوت في حالة الإيقاف في Termux ✔️\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> npm start\n\n------------------------------------\n\n—◉ 👽 الحصول على رمز QR آخر في Termux 👽\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 \n> rm -rf KillzNSession\n> npm start",
+            "texto1": "—◉ تثبيت البوت الرئيسي\n> البرنامج التعليمي: https://youtu.be/eC9TfKICpcY\n> الصفحة الرسمية: https://boxmineworld.com\n> لوحة التحكم: https://dash.boxmineworld.com/home\n> الواجهة: https://panel.boxmineworld.com\n> الدعم: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ تثبيت البوت الفرعي\n> البرنامج التعليمي: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ أوامر التثبيت*\n> الأوامر:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Perfect3.git && cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ تنشيط البوت في حالة الإيقاف في Termux ✔️\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> npm start\n\n------------------------------------\n\n—◉ 👽 الحصول على رمز QR آخر في Termux 👽\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> rm -rf KillzNSession\n> npm start",
             "texto2": "أفضل بوت واتساب"
         },
         "info_listprem": {
@@ -3287,7 +3287,7 @@
             "texto1": [
                 "_*< معلومات - المستودع />*_",
                 "▢ *الاسم:*",
-                "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 ",
+                "𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 ",
                 "▢ *الزوار:*",
                 "▢ *الحجم:*",
                 "▢ *آخر تحديث:*",

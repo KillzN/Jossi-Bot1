@@ -28,7 +28,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+  const wm = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓';
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} 𝐊𝐈𝐋𝐋𝐙𝐍

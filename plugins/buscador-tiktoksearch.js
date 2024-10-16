@@ -1,4 +1,4 @@
-// Codigo hecho para 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 - MD por https://www.instagram.com/ineffable.mvrco/
+// Codigo hecho para 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 - MD por https://www.instagram.com/ineffable.mvrco/
 // By @ineffable.mvrco
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;

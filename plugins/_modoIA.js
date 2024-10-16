@@ -16,7 +16,7 @@ handler.before = async (m) => {
         let textodem = m.text;
         const name = mconn.conn.getName(m.sender)
         const namedem = `${name || 'Sin definir'}`
-        const sytm = await fetch(`https://raw.githubusercontent.com/KillzN/Perfect3/master/src/JSON/chatgpt_indicciones.txt`).then(v => v.text());
+        const sytm = await fetch(`https://raw.githubusercontent.com/KillzN/Jossi-Bot1/master/src/JSON/chatgpt_indicciones.txt`).then(v => v.text());
         const sistema1 = sytm.replace('@name', namedem)
         const sistema2 = 'Tu seras 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 - MD, un bot de WhatsApp creado por KillzN';
         try {

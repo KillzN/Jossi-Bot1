@@ -31,8 +31,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} 𝐊𝐈𝐋𝐋𝐙𝐍
-  ${tradutor.texto1[2]} +56983073328
+  ${tradutor.texto1[1]} Josselyne
+  ${tradutor.texto1[2]} +50764880277
   ${tradutor.texto1[3]} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
   ${tradutor.texto1[4]} ${rtime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://www.instagram.com/ineffable.mvrco/` },
+    document: { url: `https://www.instagram.com/josssi_bot.ff/` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,10 +72,10 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://www.instagram.com/ineffable.mvrco/",
+        mediaUrl: "https://www.instagram.com/josssi_bot.ff/",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝐊𝐈𝐋𝐋𝐙𝐍",
+        title: "Josselyne",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",

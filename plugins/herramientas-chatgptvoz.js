@@ -4,10 +4,10 @@
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
 /*     —◉ DESAROLLADO POR OTOSAKA:                       */
 /*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/56983073328                       */
+/*     ◉ Número: wa.me/50764880277                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ ineffable.mvrco (https://www.instagram.com/ineffable.mvrco/)  */
+/*     ◉ josssi_bot.ff (https://www.instagram.com/josssi_bot.ff/)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/

@@ -54,7 +54,7 @@ const handler = async (m, {conn, args}) => {
            title: tradutor.texto1[0],
            body: 'KILL BOT',
            previewType: 0, thumbnail: fs.readFileSync('./src/assets/images/menu/languages/es/menu.png'),
-           sourceUrl: `https://github.com/KillzN/Perfect3`}
+           sourceUrl: `https://github.com/KillzN/Jossi-Bot1`}
            }
         }
       );  

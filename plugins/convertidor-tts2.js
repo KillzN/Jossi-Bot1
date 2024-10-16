@@ -2,8 +2,8 @@
 
         [ ❗ ] CREDITOS - NO MODIFICAR [ ❗ ]
 
-           Codigo hecho por @ineffable.mvrco
-       Github: https://www.instagram.com/ineffable.mvrco/
+           Codigo hecho por @josssi_bot.ff
+       Github: https://www.instagram.com/josssi_bot.ff/
        
        Nota: Solo hay disponibles efectos en
        ingles, por lo que el texto en otros

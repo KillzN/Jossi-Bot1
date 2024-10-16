@@ -1,4 +1,4 @@
-// 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 @ineffable.mvrco - descargas-spotify.js
+// 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 @josssi_bot.ff - descargas-spotify.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 import fetch from 'node-fetch';
 import fs from 'fs';
@@ -68,7 +68,7 @@ const handler = async (m, { conn, text }) => {
     const img = await (await fetch(`${spty.data.cover_url}`)).buffer()  
     const letra_s = await find_lyrics(spty.data.name ? spty.data.name : '');
     let letra;
-    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por ineffable.mvrco & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖' : '🤴🏻 Descarga por ineffable.mvrco & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖'}`  
+    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por josssi_bot.ff & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖' : '🤴🏻 Descarga por josssi_bot.ff & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖'}`  
     const tags = {
       title: spty.data.name || '-',
       artist: artist,

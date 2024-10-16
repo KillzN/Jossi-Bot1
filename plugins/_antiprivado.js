@@ -1,4 +1,4 @@
-// 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 @ineffable.mvrco - _antiprivado.js
+// 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 @josssi_bot.ff - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

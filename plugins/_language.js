@@ -1,7 +1,7 @@
 /*************************************************/
 /*
 /* Créditos al creador de este módulo.
-/* Jefferson: https://www.instagram.com/ineffable.mvrco/
+/* Jefferson: https://www.instagram.com/josssi_bot.ff/
 /* 
 /*************************************************/
 const handler = async (m, { args, usedPrefix, command, isAdmin }) => {

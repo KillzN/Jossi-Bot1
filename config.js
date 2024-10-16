@@ -5,7 +5,7 @@ import fs from 'fs';
 import moment from 'moment-timezone';
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `𝐊𝐈𝐋𝐋𝐙𝐍Session`;
+global.authFile = `JosselyneSession`;
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 // Error de m.isBaileys marcado como false fix temporal
@@ -14,43 +14,43 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', false],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 👑', true], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', false],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true], 
+  ['50764880277', '👑 Josselyne 👑', true],
+  ['50764880277', '👑 Josselyne 👑', true], 
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'], 
+  ['50764880277'],  
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'], 
+  ['50764880277'], 
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'], 
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277'],
+  ['50764880277']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['50764880277'];
+global.prems = ['50764880277'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
@@ -90,12 +90,12 @@ global.wm2 = `${dia} ${fecha}\n𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓`;
 global.gt = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓';
 global.mysticbot = '𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓';
 global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.md = 'https://github.com/KillzN/Perfect3';
-global.mysticbot = 'https://github.com/KillzN/Perfect3';
+global.md = 'https://github.com/KillzN/Jossi-Bot1';
+global.mysticbot = 'https://github.com/KillzN/Jossi-Bot1';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '50764880277';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

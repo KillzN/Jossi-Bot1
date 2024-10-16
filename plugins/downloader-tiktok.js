@@ -1,7 +1,7 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
 import {generateWAMessageFromContent} from "baileys";
-import {tiktokdl} from '@ineffable.mvrco';
+import {tiktokdl} from '@josssi_bot.ff';
 
 let tiktok;
 import('@xct007/frieren-scraper')
@@ -9,7 +9,7 @@ import('@xct007/frieren-scraper')
     tiktok = module.tiktok;
   })
   .catch((error) => {
-    console.error('SIGUEME AL INSTAGRAM @ineffable.mvrco".');
+    console.error('SIGUEME AL INSTAGRAM @josssi_bot.ff".');
   });
 
 const handler = async (m, {conn, text, args, usedPrefix, command}) => {
@@ -25,7 +25,7 @@ const handler = async (m, {conn, text, args, usedPrefix, command}) => {
   // let buttons = [{ buttonText: { displayText: '♫ 𝙰𝚄𝙳𝙸𝙾 ♫' }, buttonId: `${usedPrefix}tomp3` }]
   try {
     const aa = {quoted: m, userJid: conn.user.jid};
-    const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: texto, contextInfo: {externalAdReply: {title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/KillzN/Perfect3'}, mentionedJid: [m.sender]}}}, aa);
+    const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: texto, contextInfo: {externalAdReply: {title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/KillzN/Jossi-Bot1'}, mentionedJid: [m.sender]}}}, aa);
     await conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id, mentions: [m.sender]});
     const dataFn = await conn.getFile(`${global.MyApiRestBaseUrl}/api/tiktokv2?url=${args[0]}&apikey=${global.MyApiRestApikey}`);
     const desc1n = `${tradutor.texto4[0]} _${usedPrefix}tomp3_ ${tradutor.texto4[1]}`;
@@ -33,7 +33,7 @@ const handler = async (m, {conn, text, args, usedPrefix, command}) => {
   } catch (ee1) {
   try {
     //const aa = {quoted: m, userJid: conn.user.jid};
-    //const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: texto, contextInfo: {externalAdReply: {title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/KillzN/Perfect3'}, mentionedJid: [m.sender]}}}, aa);
+    //const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: texto, contextInfo: {externalAdReply: {title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/KillzN/Jossi-Bot1'}, mentionedJid: [m.sender]}}}, aa);
     //await conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id, mentions: [m.sender]});
     const dataF = await tiktok.v1(args[0]);
     // let desc1 =  `*𝙽𝙸𝙲𝙺𝙽𝙰𝙼𝙴:* ${dataF.nickname || 'Indefinido'}`

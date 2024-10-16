@@ -1,5 +1,5 @@
 /*              Codigo Creado Por KillzN
-      (https://github.com/KillzN/Perfect3)
+      (https://github.com/KillzN/Jossi-Bot1)
 */
 
 

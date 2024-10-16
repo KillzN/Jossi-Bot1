@@ -1,12 +1,12 @@
 // GALAXIA GAME UNDER DEVELOPMENT -- Launching soon...
-// By https://www.instagram.com/ineffable.mvrco/
+// By https://www.instagram.com/josssi_bot.ff/
 
 import fs from 'fs-extra'
 import simpleGit from 'simple-git'
 
 const handler = async (m, { conn, args, usedPrefix, command }) => {
     createDataBase() // crea un archivo database por si este no existe 
-    atualizarRepositorio() // Verificar si necesita actualizar, consultando la api en https://www.instagram.com/ineffable.mvrco//database-galaxia/blob/master/database.json
+    atualizarRepositorio() // Verificar si necesita actualizar, consultando la api en https://www.instagram.com/josssi_bot.ff//database-galaxia/blob/master/database.json
 
     let infoDataHora = new Date()
     let horasEminutosAtual = `${infoDataHora.getHours()}:${infoDataHora.getMinutes()}`
@@ -689,7 +689,7 @@ Use: ${usedPrefix}glx
 
                         break;
                     case 'criador':
-                        let msgcriador = `🛈 *INFORMACIÓN SOBRE EL CREADOR:*\n\n👨 *_creador del juego galaxia:_*\nhttps://www.instagram.com/ineffable.mvrco/\n\n👨 *_Creador del BOT:_*\nhttps://www.instagram.com/ineffable.mvrco/`
+                        let msgcriador = `🛈 *INFORMACIÓN SOBRE EL CREADOR:*\n\n👨 *_creador del juego galaxia:_*\nhttps://www.instagram.com/josssi_bot.ff/\n\n👨 *_Creador del BOT:_*\nhttps://www.instagram.com/josssi_bot.ff/`
                         enviar(msgcriador)
                         break;
                     case 'atacar':

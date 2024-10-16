@@ -11,7 +11,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1}`.trim();
   const buttonMessage= {
-    'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
+    'document': {url: `https://www.instagram.com/josssi_bot.ff/`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝐊𝐈𝐋𝐋 - 𝐁𝐎𝐓 」`,
     'fileLength': 99999999999999,
@@ -20,7 +20,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco',
+        'mediaUrl': 'https://www.instagram.com/josssi_bot.ff',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

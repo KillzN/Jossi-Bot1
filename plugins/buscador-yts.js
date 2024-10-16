@@ -5,8 +5,8 @@
 - Agradecimiento especial a Carlos (PT) por los codigos de interactiveMessage (botones)
 - Agradecimiento a Darlyn1234 por la estructura de uso en este codigo y quoted
  * https://github.com/darlyn1234
-- Adaptacion de imagen en tipo lista, codigo y funcionamiento por ineffable.mvrco
- * https://www.instagram.com/ineffable.mvrco/
+- Adaptacion de imagen en tipo lista, codigo y funcionamiento por josssi_bot.ff
+ * https://www.instagram.com/josssi_bot.ff/
 
 */
 import { prepareWAMessageMedia, generateWAMessageFromContent, getDevice } from "baileys"

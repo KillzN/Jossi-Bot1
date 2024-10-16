@@ -1,4 +1,4 @@
-/* Codigo hecho por @ineffable.mvrco y mejorado por ineffable.mvrco */
+/* Codigo hecho por @josssi_bot.ff y mejorado por josssi_bot.ff */
 
 import { readdirSync, unlinkSync, existsSync, promises as fs, rmSync, readFileSync } from 'fs';
 import path from 'path';

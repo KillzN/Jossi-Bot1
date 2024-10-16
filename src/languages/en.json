@@ -1,7 +1,7 @@
 {
     "___creditos": {
-        "___Contribuidor": "https://www.instagram.com/ineffable.mvrco/",
-        "___Criador": "https://www.instagram.com/ineffable.mvrco/"
+        "___Contribuidor": "https://www.instagram.com/josssi_bot.ff/",
+        "___Criador": "https://www.instagram.com/josssi_bot.ff/"
     },
     "plugins": {
         "antiarab": {
@@ -799,7 +799,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by ineffable.mvrco & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖"
+            "texto2": "🤴🏻 Download by josssi_bot.ff & 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓  🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -2411,15 +2411,15 @@
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by ineffable.mvrco, you will be 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
-            "texto3": "You will act as a WhatsApp Bot created by ineffable.mvrco, you will be 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
+            "texto2": "You will act as a WhatsApp Bot created by josssi_bot.ff, you will be 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
+            "texto3": "You will act as a WhatsApp Bot created by josssi_bot.ff, you will be 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
             "texto4": "*[❗] Error, please try again*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by ineffable.mvrco, you will be 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
+            "texto2": "You will act as a WhatsApp Bot created by josssi_bot.ff, you will be 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓.",
             "texto3": "*[❗] Error, please try again*"
         },
         "herramientas_clima": {
@@ -2620,7 +2620,7 @@
         },
         "info_creador": {
             "texto1": [
-                "—◉ My creator's number is wa.me/56983073328"
+                "—◉ My creator's number is wa.me/50764880277"
             ],
             "texto2": [
                 "「 Hello World 」",
@@ -2641,14 +2641,14 @@
                 "➤ PAYPAL: https://www.paypal.me/BrunoSob",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
-                "wa.me/56983073328"
+                "wa.me/50764880277"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATION - STATE />*_",
                 "▢ *Owner:* KillzN",
-                "▢ *WA:* +56983073328",
+                "▢ *WA:* +50764880277",
                 "▢ *PayPal:* paypal.me/BrunoSob",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
@@ -2706,7 +2706,7 @@
             "texto2": "The Best Hosting 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Perfect3.git && cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> rm -rf KillzNSession\n> npm start",
+            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/KillzN/Jossi-Bot1.git && cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 \n> rm -rf KillzNSession\n> npm start",
             "texto2": "The Best WhatsApp Bot"
         },
         "info_listprem": {
@@ -2746,7 +2746,7 @@
                 "▢ *Size:*",
                 "▢ *Last update:*",
                 "▢ *URL:*",
-                "https://github.com/KillzN/Perfect3",
+                "https://github.com/KillzN/Jossi-Bot1",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -3811,7 +3811,7 @@
             "texto11": [
                 "[ ⚠️ ] Warning",
                 "[ ⚠️ ] Warning",
-                "https://github.com/KillzN/Perfect3"
+                "https://github.com/KillzN/Jossi-Bot1"
             ]
         },
         "participantsUpdate": {

@@ -1,5 +1,5 @@
-// Codigo hecho para 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 - MD por https://www.instagram.com/ineffable.mvrco/
-// By @ineffable.mvrco
+// Codigo hecho para 𝐉𝐎𝐒𝐒𝐈 𝐁𝐎𝐓 - MD por https://www.instagram.com/josssi_bot.ff/
+// By @josssi_bot.ff
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
 

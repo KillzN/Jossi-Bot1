@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/KillzN/Perfect3",
+  "homepage": "https://github.com/KillzN/Jossi-Bot1",
   "author": {
-    "name": "𝐊𝐈𝐋𝐋𝐙𝐍"
+    "name": "Josselyne"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KillzN/Perfect3.git"
+    "url": "git+https://github.com/KillzN/Jossi-Bot1.git"
   },
   "bugs": {
-    "url": "https://github.com/KillzN/Perfect3/issues"
+    "url": "https://github.com/KillzN/Jossi-Bot1/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -95,7 +95,7 @@
     "ytdl-core": "github:khlevon/node-ytdl-core#v4.11.4-patch.2"
   },
   "optionalDependencies": {
-    "@xct007/frieren-scraper": "github:ineffable.mvrco/frieren-scraper",
+    "@xct007/frieren-scraper": "github:josssi_bot.ff/frieren-scraper",
     "wa-sticker-formatter": "^4.3.2"
   },
   "devDependencies": {

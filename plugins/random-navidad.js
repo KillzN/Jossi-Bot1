@@ -12,7 +12,7 @@ const handler = async (m, {
   const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
   const tradutor = _translate.plugins.random_navidad
 
-  const res = (await axios.get(`https://raw.githubusercontent.com/KillzN/Perfect3/master/src/JSON/navidad.json`)).data;
+  const res = (await axios.get(`https://raw.githubusercontent.com/KillzN/Jossi-Bot1/master/src/JSON/navidad.json`)).data;
   const mystic = await res[Math.floor(res.length * Math.random())];
   conn.sendMessage(m.chat, {
     image: {
